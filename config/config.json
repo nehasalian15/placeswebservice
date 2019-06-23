@@ -1,0 +1,5 @@
+{
+  "awsKey" : "AIzaSyCIEzQUwc5zrlN-NAUKCPoOMrevqh_GM4I",
+  "awsPlaceBaseUrl": "https://maps.googleapis.com/maps/api",
+  "supportedTypes": ["atm", "bank", "hospital", "police", "post_office", "school", "restaurant"]
+}
